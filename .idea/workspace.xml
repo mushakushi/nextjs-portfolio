@@ -5,44 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="078ef561-5afc-460c-8b54-cffb7dc5aa91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.claude/CLAUDE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.claude/rules/design-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.claude/rules/workflow.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/CLAUDE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/HomeContent.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/blog/BlogContent.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/projects/ProjectsContent.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chakra/CLAUDE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CLAUDE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/fluid-text/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/magnetic/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/project-feed/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/scroll-to-top/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/search-filter/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tilt-card/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/blog/[slug]/loading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/blog/[slug]/loading.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/blog/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/blog/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/not-found.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/not-found.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/projects/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/projects/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chakra/StyleJsxGlobal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/chakra/StyleJsxGlobal.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chakra/theme/colors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/chakra/theme/colors.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chakra/theme/components/link.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/chakra/theme/components/link.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chakra/theme/foundations/fonts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/chakra/theme/foundations/fonts.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chakra/theme/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/chakra/theme/styles.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/feed/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/feed/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/link/ResumeButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/link/ResumeButton.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/main-container/MainContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main-container/MainContainer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/post/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tags/TagSelect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tags/TagSelect.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tags/Tags.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tags/Tags.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/nprogress/nprogress.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/nprogress/nprogress.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +106,7 @@
       <workItem from="1691881615867" duration="6049000" />
       <workItem from="1774627461103" duration="1097000" />
       <workItem from="1774655371401" duration="18768000" />
-      <workItem from="1776542842760" duration="305000" />
+      <workItem from="1776542842760" duration="1045000" />
     </task>
     <servers />
   </component>
