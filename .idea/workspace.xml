@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="078ef561-5afc-460c-8b54-cffb7dc5aa91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/resume/route.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/HomeContent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/HomeContent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/not-found.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/not-found.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/link/IconButtonLink.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/link/IconButtonLink.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/parsing/HTMLParser.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/parsing/HTMLParser.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +117,11 @@
       <workItem from="1774627461103" duration="1097000" />
       <workItem from="1774655371401" duration="18768000" />
       <workItem from="1776542842760" duration="1045000" />
+      <workItem from="1776545438408" duration="1488000" />
+      <workItem from="1776780004849" duration="1386000" />
+      <workItem from="1776881951210" duration="910000" />
+      <workItem from="1776883036284" duration="36000" />
+      <workItem from="1776883118854" duration="320000" />
     </task>
     <servers />
   </component>
