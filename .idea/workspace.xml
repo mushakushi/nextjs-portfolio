@@ -5,17 +5,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="078ef561-5afc-460c-8b54-cffb7dc5aa91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/claudeCodeTabState.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio Inspo/mixboard-image (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio Inspo/mixboard-image (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio Inspo/mixboard-image (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio Inspo/mixboard-image (4).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio Inspo/mixboard-image (5).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio Inspo/mixboard-image (6).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio Inspo/mixboard-image (7).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio Inspo/mixboard-image (8).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio Inspo/mixboard-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio Inspo/portfolio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/glass/GlassPanel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/glass/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/providers/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/scene/FieldLines.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/scene/HeroScene.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/scene/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/style-global.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/colors.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/fonts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.claude/CLAUDE.md" beforeDir="false" afterPath="$PROJECT_DIR$/.claude/CLAUDE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/HomeContent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/HomeContent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blog/BlogContent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/blog/BlogContent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blog/[slug]/loading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/blog/[slug]/loading.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blog/[slug]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/blog/[slug]/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/parsing/HTMLParser.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/parsing/HTMLParser.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/not-found.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/not-found.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/projects/ProjectsContent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/projects/ProjectsContent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chakra/CLAUDE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chakra/ColorModeScript.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chakra/StyleJsxGlobal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chakra/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chakra/providers.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/providers/chakra.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chakra/theme/colors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chakra/theme/components/blockquote.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/theme/components/blockquote.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chakra/theme/components/link.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/theme/components/link.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chakra/theme/foundations/fonts.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chakra/theme/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/theme/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chakra/theme/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/fluid-text/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/fluid-text/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/image/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/link/HeadingLink.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/link/HeadingLink.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/link/ResumeButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/link/ResumeButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/parsing/HTMLTable.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/parsing/HTMLTable.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/post/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/scroll-to-top/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/scroll-to-top/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/tags/TagSelect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tags/TagSelect.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/tags/Tags.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tags/Tags.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="125" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,6 +88,10 @@
 }</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
@@ -54,12 +112,14 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
@@ -93,7 +153,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.31033.133" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.23567.141" />
       </set>
     </attachedChunks>
   </component>
@@ -116,7 +176,11 @@
       <workItem from="1776780004849" duration="1386000" />
       <workItem from="1776881951210" duration="910000" />
       <workItem from="1776883036284" duration="36000" />
-      <workItem from="1776883118854" duration="3344000" />
+      <workItem from="1776883118854" duration="3821000" />
+      <workItem from="1778163726317" duration="1317000" />
+      <workItem from="1778518557594" duration="7357000" />
+      <workItem from="1778719038520" duration="2603000" />
+      <workItem from="1778723093316" duration="8407000" />
     </task>
     <servers />
   </component>
